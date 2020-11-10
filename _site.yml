@@ -1,0 +1,13 @@
+name: "Ben's DS6306 Course Website"
+navbar:
+  title: "Ben's Website for DS6306"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About me"
+      href: aboutme.html
+    - text: "Case Study 1"
+      href: casestudy1.html
+    - text: "Projects, check them out!"
+      href: otherprojects.html
+
