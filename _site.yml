@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "About me"
       href: aboutme.html
-    - text: "Case Study 1"
-      href: casestudy1.html
+    - text: "Case Study 2"
+      href: casestudy2.html
     - text: "Projects, check them out!"
       href: otherprojects.html
 
